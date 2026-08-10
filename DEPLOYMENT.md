@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Hà Nhật Khánh Duy |
 | Mã học viên | 2A202602031 |
-| Repo | [https://github.com/HaNhatKhanhDuy/DAY12-2A202602031-HaNhatKhanhDuy](https://github.com/YuiK08/K3-DAY12-2A202602031-HaNhatKhanhDuy) |
+| Repo | [https://github.com/HaNhatKhanhDuy/K3-DAY12-2A202602031-HaNhatKhanhDuy](https://github.com/YuiK08/K3-DAY12-2A202602031-HaNhatKhanhDuy) |
 
 ## Service
 
